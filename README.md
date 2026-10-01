@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel Gallego
 
-<!--
-**Danifgo2006/Danifgo2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en Barcelona.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo web, la programación y seguir mejorando como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- SQL
+- Docker
+- Git & GitHub
+- Power Apps
+- Power Automate
+- Dataverse
+
+## 🚀 Proyectos
+
+### 🎮 Concurso Web
+Aplicación web de preguntas desarrollada con HTML, CSS, JavaScript, JSON y localStorage.
+
+### 🔧 Prácticas de Git
+Repositorio utilizado para aprender y practicar Git y GitHub.
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo web
+- JavaScript
+- Backend
+- Bases de datos
+- Docker
+
+## 📍 Sobre mí
+
+📍 Barcelona, España  
+🎓 Estudiante de DAW
