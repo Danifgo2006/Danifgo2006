@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Gallego
+# 👋 Hola, soy Daniel Felipe Gallego Ordoñez
 
 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en Barcelona.
 
